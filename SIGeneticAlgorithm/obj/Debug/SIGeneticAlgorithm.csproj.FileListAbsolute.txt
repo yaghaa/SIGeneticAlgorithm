@@ -1,0 +1,8 @@
+c:\users\agata\documents\visual studio 2017\Projects\SIGeneticAlgorithm\SIGeneticAlgorithm\bin\Debug\SIGeneticAlgorithm.exe.config
+c:\users\agata\documents\visual studio 2017\Projects\SIGeneticAlgorithm\SIGeneticAlgorithm\bin\Debug\SIGeneticAlgorithm.exe
+c:\users\agata\documents\visual studio 2017\Projects\SIGeneticAlgorithm\SIGeneticAlgorithm\bin\Debug\SIGeneticAlgorithm.pdb
+c:\users\agata\documents\visual studio 2017\Projects\SIGeneticAlgorithm\SIGeneticAlgorithm\obj\Debug\SIGeneticAlgorithm.csprojResolveAssemblyReference.cache
+c:\users\agata\documents\visual studio 2017\Projects\SIGeneticAlgorithm\SIGeneticAlgorithm\obj\Debug\SIGeneticAlgorithm.exe
+c:\users\agata\documents\visual studio 2017\Projects\SIGeneticAlgorithm\SIGeneticAlgorithm\obj\Debug\SIGeneticAlgorithm.pdb
+C:\Users\Agata\Documents\Visual Studio 2017\Projects\SIGeneticAlgorithm\SIGeneticAlgorithm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Agata\Documents\Visual Studio 2017\Projects\SIGeneticAlgorithm\SIGeneticAlgorithm\bin\Debug\Newtonsoft.Json.xml
